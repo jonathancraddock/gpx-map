@@ -11,5 +11,11 @@ The solution is open-source and, locally, you require just a few lines of code.
 LeafletJS -> https://leafletjs.com/  
 Leaflet-GPX -> https://github.com/mpetazzoni/leaflet-gpx  
 OpenTopoMap -> https://opentopomap.org/  
-
 Leaflet and Leaflet-Draw (GitHub) -> https://github.com/Leaflet  
+
+## Additional Reference
+
+Rights Of Way Maps -> https://www.rowmaps.com/  
+Footpath Map (UK) -> https://footpathmap.co.uk/  
+Footpath Maps Beta (UK) -> https://footpathmaps.com/  
+OS Maps -> https://osmaps.ordnancesurvey.co.uk/  
